@@ -1,0 +1,1 @@
+print ('no: 1 \nsaya belajar Bahasa Pemrograman menggunakan python')
